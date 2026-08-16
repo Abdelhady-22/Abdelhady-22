@@ -10,8 +10,6 @@ Production AI systems · Multi-agent platforms · Computer vision · Cloud infra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelhady-ali-940761316)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulhadi.ali.mhmd@gmail.com)
 
-[English](https://abdelhady-portfolio-pearl.vercel.app/en) · [العربية](https://abdelhady-portfolio-pearl.vercel.app/ar)
-
 </div>
 
 ## I build AI systems that survive production
