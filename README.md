@@ -83,8 +83,8 @@ My focus is not only making an AI feature work. I build the engineering around i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdelhady-22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Abdelhady's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelhady-22&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages across public repositories" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdelhady-22&theme=transparent" alt="Abdelhady's GitHub statistics" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdelhady-22&theme=transparent" alt="Most used languages across public repositories" />
 
 </div>
 
